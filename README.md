@@ -1,0 +1,1 @@
+Project: **New York City Blog**, following tasks from Codecademy.
